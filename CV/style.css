@@ -1,0 +1,13 @@
+h3 {
+    font-family: cursive;
+    color: darkblue;
+}
+
+a {
+    font-family: arial;
+    color: blue;
+}
+
+h3.hdark {
+    color: dark;
+}
