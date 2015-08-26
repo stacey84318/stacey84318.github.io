@@ -1,17 +1,18 @@
 h3 {
-    font-family: cursive;
+    font-family: monospace;
     color: darkblue;
+    font-size: 150%;
 }
 
 a {
-    font-family: arial;
+    font-family: cursive;
     color: blue;
     cursor: pointer;
 }
 
 div strong {
     color: maroon;
-    font-size: 130%;
+    font-size: 100%;
     font-family: impact;
 }
 
