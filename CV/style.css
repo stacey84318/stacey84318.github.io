@@ -6,8 +6,15 @@ h3 {
 a {
     font-family: arial;
     color: blue;
+    cursor: pointer;
 }
 
-h3.hdark {
-    color: dark;
+div strong {
+    color: maroon;
+    font-size: 130%;
+    font-family: impact;
+}
+
+ul {
+    list-style: square;
 }
