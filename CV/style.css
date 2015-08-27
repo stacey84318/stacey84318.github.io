@@ -1,5 +1,5 @@
 h3 {
-    font-family: Alegreya Sans, sans-serif;
+    font-family: fantasy;
     color: darkblue;
     font-size: 150%;
 }
@@ -16,17 +16,30 @@ div strong {
     font-family: impact;
 }
 
+h1 {
+    font-family: fantasy;
+    font-size: 60px;
+    color: darkblue;
+}
+
 ul {
     list-style: square;
 }
 
 div {
-    border-style: outset;
     width: 600px;
+    border-style: double;
+    color: dark;
+    border-width: 9px;
 }
 
 img.me {
-    position: fixed;
+    height: 600px;
+    width: 450px;
     float: left;
-    margin-left: 650px;
+    margin-left: 700px;
+    position: fixed;
+    border-radius: 100%;
+    border-style: double;
+    border-width: 9px;
 }
