@@ -1,11 +1,11 @@
 h3 {
-    font-family: monospace;
+    font-family: Alegreya Sans, sans-serif;
     color: darkblue;
     font-size: 150%;
 }
 
 a {
-    font-family: cursive;
+    font-family: monospace;
     color: blue;
     cursor: pointer;
 }
@@ -18,4 +18,15 @@ div strong {
 
 ul {
     list-style: square;
+}
+
+div {
+    border-style: outset;
+    width: 600px;
+}
+
+img.me {
+    position: fixed;
+    float: left;
+    margin-left: 650px;
 }
