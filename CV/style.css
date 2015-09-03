@@ -12,7 +12,7 @@
                             float: left;
                             padding: 12px;
                             font-family: fantasy;
-                            font-size: 150%;
+                            font-size: 100%;
                             color: black;
                             border-style: solid;
                             border-color: white;
@@ -216,4 +216,44 @@
                         
                         .purple {
                             background: purple;
+                        }
+                        
+                        .nowbgr {
+                            border-top-color: #00AA00;
+                        }
+                        
+                        .nowugr {
+                            border-bottom-color: #00AA00;
+                        }
+                        
+                        .nowbpu {
+                            border-top-color: purple;
+                        }
+                        
+                        .nowupu {
+                            border-bottom-color: purple;
+                        }
+                        
+                        .nowbbl {
+                            border-top-color: #5599FF;
+                        }
+                        
+                        .nowubl {
+                            border-bottom-color: #5599FF;
+                        }
+                        
+                        .nowbor {
+                            border-top-color: orange;
+                        }
+                        
+                        .nowuor {
+                            border-bottom-color: orange;
+                        }
+                        
+                        .nowbre {
+                            border-top-color: red;
+                        }
+                        
+                        .nowure {
+                            border-bottom-color: red;
                         }
